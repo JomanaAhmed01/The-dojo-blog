@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "my new blog",
+      "body": "hello guys, this is my first blog in this brand new website.!",
+      "author": "Nemo",
+      "id": 2
+    },
+    {
+      "title": "hii",
+      "body": " slcjonscknmc djwjbwdmcqc hkhcwjcc ",
+      "author": "Ighu",
+      "id": 3
+    },
+    {
+      "title": "Hello",
+      "body": "This is a new blog",
+      "author": "Kota",
+      "id": 4
+    }
+  ]
+}
